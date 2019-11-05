@@ -2,7 +2,7 @@ backend:
   name: git-gateway
   branch: master
 
-media_folder: packages/tischtennis/static/img
+media_folder: static/img
 public_folder: /img
 
 publish_mode: editorial_workflow
@@ -10,7 +10,7 @@ publish_mode: editorial_workflow
 collections:
   - name: "blog"
     label: "Blog"
-    folder: "packages/tischtennis/src/pages/blog"
+    folder: "src/pages/blog"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
@@ -25,7 +25,7 @@ collections:
 
   - name: "pages"
     label: "Statische Seiten"
-    folder: "packages/tischtennis/src/pages"
+    folder: "src/pages"
     create: true
     editor:
       preview: false
@@ -84,7 +84,7 @@ collections:
       preview: false
     delete: false
     files:
-      - file: packages/tischtennis/src/data/events.yml
+      - file: src/data/events.yml
         label: Veranstaltungen
         name: events
         fields:
@@ -95,7 +95,7 @@ collections:
               - {label: Veranstaltung, name: label, widget: string}
               - {label: Datum, name: date, widget: datetime}
               - {label: Beschreibung, name: description, widget: string}
-      - file: packages/tischtennis/src/data/menu.yml
+      - file: src/data/menu.yml
         label: Navigation
         name: menu
         fields:

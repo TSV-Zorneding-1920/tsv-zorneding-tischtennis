@@ -1,0 +1,12 @@
+menu_entry:
+  - page: ueber-uns
+    title: Über uns
+  - page: sporthalle
+    title: Sporthalle
+  - menu_entry:
+      - page: 'mannschaften/ergebnisse-tabellen'
+        title: Ergebnisse und Tabellen
+      - page: 'mannschaften/damen-1'
+        title: 1. Damen
+    page:
+    title: Mannschaften

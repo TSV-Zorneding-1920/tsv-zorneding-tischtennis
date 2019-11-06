@@ -28,8 +28,15 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: `@tsv-zorneding-1920/gatsby-theme-tsv-zorneding`,
+      resolve: `gatsby-theme-tsv-zorneding`,
       options: { NETLIFY_ENV, title }
+    },
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        path: `shared/src/shared`,
+        name: "pages"
+      }
     }
   ]
 };

@@ -18,8 +18,8 @@
     "postinstall": "patch-package"
   },
   "dependencies": {
-    "@tsv-zorneding-1920/gatsby-theme-tsv-zorneding": "file:./gatsby-theme-tsv-zorneding",
     "gatsby": "^2.15.16",
+    "gatsby-theme-tsv-zorneding-dependencies": "file:./plugins/gatsby-theme-tsv-zorneding/package",
     "node-sass": "^4.12.0",
     "parcel-bundler": "^1.12.3",
     "patch-package": "^6.2.0",

@@ -1,6 +1,3 @@
 [submodule "plugins/gatsby-theme-tsv-zorneding"]
 	path = plugins/gatsby-theme-tsv-zorneding
 	url = https://github.com/TSV-Zorneding-1920/gatsby-theme-tsv-zorneding.git
-[submodule "shared"]
-	path = shared
-	url = https://github.com/TSV-Zorneding-1920/tsv-zorneding-tsv.git

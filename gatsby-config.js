@@ -30,13 +30,6 @@ module.exports = {
     {
       resolve: `gatsby-theme-tsv-zorneding`,
       options: { NETLIFY_ENV, title }
-    },
-    {
-      resolve: "gatsby-source-filesystem",
-      options: {
-        path: `shared/src/shared`,
-        name: "pages"
-      }
     }
   ]
 };

@@ -8,7 +8,11 @@ featuredimage: /img/mini-meisterschaften.jpg
 tags:
   - mini-Meisterschaften
 ---
-Liebe Kinder, der TSV Zorneding veranstaltet wieder die beliebten Minimeisterschaften. Jeder kann mitspielen, der noch nicht am offiziellen Spielbetrieb teilnimmt. Es gibt folgende Gruppen:
+Liebe Kinder, der TSV Zorneding veranstaltet wieder die beliebten Minimeisterschaften. Jeder kann mitspielen, der noch nicht am offiziellen Spielbetrieb teilnimmt. 
+
+https://www.youtube.com/watch?v=wNSEDyPSpTA
+
+Es gibt folgende Gruppen:
 
  - AK 1 – Jahrgang 2007/08
  - AK 2 – Jahrgang 2009/10

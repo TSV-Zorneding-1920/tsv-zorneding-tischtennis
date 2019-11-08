@@ -1,6 +1,8 @@
 menu_entry:
   - page: /ueber-uns
     title: Über uns
+  - page: /trainingszeiten
+    title: Trainingszeiten
   - page: /sporthalle
     title: Sporthalle
   - menu_entry:

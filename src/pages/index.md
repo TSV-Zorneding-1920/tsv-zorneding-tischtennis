@@ -4,10 +4,11 @@ title: Startseite
 showTitle: false
 sections:
   - offset: 0
+    count: 1
     type: banner
-  - type: info
+  - type: icon_list
     title: Training
-    info:
+    element:
       - icon: fa-child
         body: >-
             Montag 17.00–20:00 Uhr

@@ -3,7 +3,7 @@ templateKey: static-page
 title: Kontakt
 showTitle: true
 sections:
-  - type: image_text
+  - type: image_text_small
     info:
       - image_small: /img/CFritsch.jpg
         body: >-

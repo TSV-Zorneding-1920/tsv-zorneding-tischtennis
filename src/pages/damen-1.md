@@ -5,7 +5,7 @@ showTitle: true
 sections:
   - image: /img/Damen1_19_20.jpg
     type: image
-  - count: 6
+  - count: 3
     offset: 0
     tags:
       - 1. Damen

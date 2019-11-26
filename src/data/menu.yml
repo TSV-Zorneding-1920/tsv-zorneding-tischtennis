@@ -1,14 +1,13 @@
 menu_entry:
   - page: /ueber-uns
     title: Über uns
+  - page: '/damen-1'
+    title: 1. Damen
+  - page: '/jugend'
+    title: Jugend
   - page: /trainingszeiten
     title: Trainingszeiten
   - page: /sporthalle
     title: Sporthalle
-  - menu_entry:
-      - page: '/mannschaften/ergebnisse-tabellen'
-        title: Ergebnisse und Tabellen
-      - page: '/mannschaften/damen-1'
-        title: 1. Damen
-    page:
-    title: Mannschaften
+  - page: /downloads
+    title: Downloads

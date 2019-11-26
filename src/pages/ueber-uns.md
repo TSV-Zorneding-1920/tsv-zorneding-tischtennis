@@ -7,28 +7,11 @@ sections:
       Die Tischtennisabteilung besteht aus ca. 90 Mitgliedern, davon etwa 40
       Jugendliche und Kinder.
 
-
       Kameradschaft und Gemütlichkeit ist uns wichtig. Damit es im sportlichen
       Bereich weiter bergauf geht, haben wir neben den ehrenamtlichen
       Übungsleitern auch Sylvia Pranjkovic (ehemalige Bundesligaspielerin und
       Europacup-Siegerin) engagiert. In Zorneding kann jeder aktive
       Tischtennisspieler sein Spiel verbessern.
-
-
-      Die Jugendarbeit spielt bei uns schon immer eine zentrale Rolle. Dies
-      zeigen auch die vielen Titel, die unsere Jugendlichen im Lauf der Jahre
-      auf Kreis- und Bezirksebene erreicht haben. Der größte Mannschaftserfolg
-      war die Bayerische Mannschaftsmeisterschaft der Schülerinnen vor einigen
-      Jahren.
-
-
-      Mehrere ausgebildete Tischtennis-Kindertrainer und Übungsleiter kümmern
-      sich um die besonderen Bedürfnisse der Kinder. Neben dem spielerischen
-      Erlernen der Tischtennistechnik möchten wir Spaß an der Bewegung
-      vermitteln. Der Tischtennissport verbessert die koordinativen und
-      motorischen Fähigkeiten und verbessert die Konzentrationsfähigkeit. Wie
-      uns schon viele Eltern bescheinigt haben, herrscht bei uns zudem eine sehr
-      angenehme, freundliche Atmosphäre.
     type: body
   - images:
       - image: /img/Damen1_19_20.jpg
@@ -41,25 +24,6 @@ sections:
       - image: /img/Herren6_18_19.jpg
     type: carousel
   - body: >-
-      Die Kinder trainieren zunächst 1-2 mal pro Woche in der Breitensportgruppe
-      und können dann in die Fördergruppe (2-3 mal Training) wechseln. Die
-      Fördergruppe ist für die Kinder interessant, die in der Mannschaft spielen
-      wollen und an Turnieren teilnehmen möchten. Für diese Kinder bieten wir
-      Systemtraining und Balleimertraining mit erfahrenen Trainern an.
-      Regelmäßige Trainingsteilnahme ist aber in allen Gruppen sehr wichtig. Nur
-      so können die Kinder sichtbare Fortschritte erzielen. Und nur dann macht
-      es auf Dauer Spaß.
-
-
-      Alle Trainings werden von unseren ausgebildeten C-Trainern und
-      Kindertrainern geleitet. Um die ambitionierten Kinder weiter zu fördern,
-      bieten wir immer wieder Sondertrainings mit Profitrainern an und besuchen
-      externe Lehrgänge. Unsere sehr aktive Jugendabteilung führt regelmäßig
-      Turniere wie Minimeisterschaften, Familienturniere sowie Bezirks-und
-      Kreisturniere durch. Ausflüge mit anderen sportlichen Aktivitäten, z. B.
-      Klettergarten und gemütlichem Beisammensein stehen auf dem Programm.
-
-
       Wir begrüssen gerne neue Spielerinnen und Spieler. Bei Interesse einfach
       vorbeischauen.
     type: body

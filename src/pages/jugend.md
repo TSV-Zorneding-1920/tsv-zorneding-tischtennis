@@ -24,7 +24,8 @@ sections:
       - image: /img/DSC07376.jpg
       - image: /img/DSC07465.jpg
       - image: /img/DSC06327.jpg
-
+      - image: /img/20171004_190201-1024x576.jpg
+      - image: /img/DSC07373.jpg
     type: carousel
   - body: >-
       Die Kinder trainieren zunächst 1-2 mal pro Woche in der Breitensportgruppe

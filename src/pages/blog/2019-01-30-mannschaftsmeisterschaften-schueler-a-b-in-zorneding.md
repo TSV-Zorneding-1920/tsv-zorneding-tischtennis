@@ -4,7 +4,7 @@ title: Mannschafts-Meisterschaften Schüler A und B in Zorneding
 date: 2019-01-30T15:04:10.000Z
 featured: false
 sticky: false
-featuredimage:
+featuredimage: /img/default.jpg
 tags:
   - Jugend
 ---

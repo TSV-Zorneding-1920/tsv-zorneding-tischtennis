@@ -4,7 +4,7 @@ title: mini-Meisterschaften 2018
 date: 2018-11-14T15:04:10.000Z
 featured: false
 sticky: false
-featuredimage:
+featuredimage: /img/default.jpg
 tags:
   - Jugend
   - mini-Meisterschaften

@@ -4,7 +4,7 @@ title: Saisonausblick im Jugendbereich
 date: 2019-09-30T15:04:10.000Z
 featured: false
 sticky: false
-featuredimage:
+featuredimage: /img/default.jpg
 tags:
   - Jugend
 ---

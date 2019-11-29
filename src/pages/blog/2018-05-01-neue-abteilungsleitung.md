@@ -4,7 +4,7 @@ title: Neue Abteilungsleitung
 date: 2018-05-01T15:04:10.000Z
 featured: false
 sticky: false
-featuredimage:
+featuredimage: /img/default.jpg
 tags:
 ---
 Nach den Rücktritten unserer langjährigen Abteilungsleitung um Bernhard Seel und André Duwel, stellt sich seit Mai 2018 Christian Fritsch dieser verantwortungsvollen Aufgabe. Unterstützung bekommt er dabei von seinen beiden Stellvertretern Thomas Thalmair und Andreas Hackner. Neu in der Jugendleitung ist Martin Steinberger, der Thomas Krüger in seinem Amt ablöst.

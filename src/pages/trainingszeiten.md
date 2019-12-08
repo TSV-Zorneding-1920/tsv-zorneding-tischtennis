@@ -12,7 +12,7 @@ sections:
       
       * 17:00 - 18:30 Uhr: Anfängertraining ab 6 Jahren
 
-      * 18:00 - 20:00 Uhr: Mannschaftstraining u.a. mit Sylvia Pranjkovic
+      * 18:00 - 20:00 Uhr: Mannschaftstraining u.a. mit der ehemaligen Bundesligaspielerin Sylvia Pranjkovic
       
       ### Mittwoch
       
@@ -30,7 +30,7 @@ sections:
       
       ### Montag
       
-      * 19:15 - 22:00 Uhr: Geführtes Training von Sylvia Pranjkovic
+      * 19:15 - 22:00 Uhr: Geführtes Training mit der ehemaligen Bundesligaspielerin Sylvia Pranjkovic
       
       ### Mittwoch
       
@@ -41,7 +41,7 @@ sections:
       * 19:30 - 22:00 Uhr: Training und Punktspiele
       
       
-      Findet Mittwochs kein Punktspiel statt, tragen wir stattdessen ein internes Doppelturnier aus bei dem Erwachsene und Jugendleiche gleichermaßen willkommen sind. Dabei werden die Paarungen nach jeder Runde neu zusammengestellt. Der Spaß steht dabei im Vordergrund. Für Neulinge ist das Doppelturnier eine gute Möglichkeit in kurzer Zeit viele Kontakte innerhalb der Tischtennis-Abteilung zu knüpfen.
+      Findet mittwochs kein Punktspiel statt, tragen wir stattdessen ein internes Doppelturnier aus bei dem Erwachsene und Jugendleiche gleichermaßen willkommen sind. Dabei werden die Paarungen nach jeder Runde neu zusammengestellt. Der Spaß steht dabei im Vordergrund. Für Neulinge ist das Doppelturnier eine gute Möglichkeit in kurzer Zeit viele Kontakte innerhalb der Tischtennisabteilung zu knüpfen.
     type: body
 ---
 

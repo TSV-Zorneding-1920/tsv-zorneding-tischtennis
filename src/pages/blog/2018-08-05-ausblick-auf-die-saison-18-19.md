@@ -6,14 +6,7 @@ featured: false
 sticky: false
 featuredimage: /img/IMG_0988.jpg
 tags:
-  - 1. Damen
-  - 2. Damen
-  - 1. Herren
-  - 2. Herren
-  - 3. Herren
-  - 4. Herren
-  - 5. Herren
-  - 6. Herren
+  - Erwachsene
 ---
 Nach einem erfolgreichen letzten Jahr gehen die Erwachsenen in der Saison 2018/19 mit zwei Damen- und sechs Herrenmannschaften an den Start. Das umformierte Ligensystem verspricht dabei zahlreiche neue und interessante Begegnungen.
 

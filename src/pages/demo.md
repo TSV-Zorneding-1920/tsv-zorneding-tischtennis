@@ -3,10 +3,20 @@ templateKey: static-page
 title: Demo
 showTitle: true
 sections:
+  - body: >-
+      Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse
+      molestie consequat, vel illum dolore eu feugiat nulla facilisis at
+      vero eros et accumsan et iusto odio dignissim qui blandit praesent
+      luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+    image: /img/Damen1_19_20.jpg
+    title: Banner
+    link: 'https://www.google.de/'
+    headline: Duis autem vel eum iriure
+    type: banner
   - count: 1
     offset: 0
-    title: Banner - Zeigt ein oder mehrere Blogeinträge
-    type: banner
+    title: Bannerliste - Zeigt ein oder mehrere Blogeinträge
+    type: banner_list
   - body: >-
       Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
       eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
@@ -74,15 +84,13 @@ sections:
           vero eros et accumsan et iusto odio dignissim qui blandit praesent
           luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
         image: /img/default.jpg
-        image_small: /img/halle.jpg
         title: Überschrift 1
       - body: >-
           Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse
           molestie consequat, vel illum dolore eu feugiat nulla facilisis at
           vero eros et accumsan et iusto odio dignissim qui blandit praesent
           luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
-        image: /img/default.jpg
-        image_small: /img/Damen1_19_20.jpg
+        image: /img/Damen1_19_20.jpg
         link: 'https://www.google.de/'
         title: Überschrift 2 mit Link
     title: Bild + Text

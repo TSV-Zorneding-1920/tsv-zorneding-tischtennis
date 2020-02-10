@@ -115,5 +115,10 @@ sections:
     offset: 1
     title: Blogliste - zeigt mehrere Blogeinträge
     type: teaser_list
+  - element:
+      - file: /img/schnupperanmeldung-tt-jugend.pdf
+        title: Schnupperanmeldung
+    title: Downloads
+    type: file_list
 ---
 

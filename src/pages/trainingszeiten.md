@@ -43,5 +43,7 @@ sections:
       
       Findet mittwochs kein Punktspiel statt, tragen wir stattdessen ein internes Doppelturnier aus bei dem Erwachsene und Jugendleiche gleichermaßen willkommen sind. Dabei werden die Paarungen nach jeder Runde neu zusammengestellt. Der Spaß steht dabei im Vordergrund. Für Neulinge ist das Doppelturnier eine gute Möglichkeit in kurzer Zeit viele Kontakte innerhalb der Tischtennisabteilung zu knüpfen.
     type: body
+  - image: /img/training.jpg
+    type: image
 ---
 

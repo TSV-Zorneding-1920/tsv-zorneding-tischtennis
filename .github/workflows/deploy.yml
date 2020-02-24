@@ -18,10 +18,10 @@ jobs:
         git submodule sync --recursive
         git -c "http.extraheader=$auth_header" -c protocol.version=2 submodule update --init --force --recursive --depth=1
         
-    - uses: borales/actions-yarn@v2.0.0
+    - uses: actions/setup-node@v1
       with:
-        cmd: install # will run `yarn install` command
+        node-version: '12.x'
 
-    - uses: borales/actions-yarn@v2.0.0
-      with:
-        cmd: build # will run `yarn install` command
+    - run: yarn install
+    - run: yarn build
+

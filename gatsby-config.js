@@ -11,19 +11,13 @@ const {
 const isNetlifyProduction = NETLIFY_ENV === "production";
 const siteUrl = isNetlifyProduction ? NETLIFY_SITE_URL : NETLIFY_DEPLOY_URL;
 
+const fs = require("fs");
+let settings = JSON.parse(fs.readFileSync("src/data/settings.json"));
+
 const title = `TSV Zorneding 1920 e.V. - Abteilung Tischtennis`;
 module.exports = {
   siteMetadata: {
-    title,
-    section: `Abteilung Tischtennis`,
-    description: `Die Tischtennis Abteilung des TSV Zorneding 1920 e.V. besteht aus ca. 70 Mitgliedern, davon etwa 30 Jugendliche und Kinder. Das Aushängeschild ist die 1. Damenmannschaft welche aktuell in der Oberliga Bayern spielt. Auf dieser Seite Informationen über Trainingszeiten, Veranstaltungen und unseren Mannschaften.`,
-    author: `TSV Zorneding 1920 e.V.`,
-    social: {
-      facebook: `https://www.facebook.com/TSVZornedingTischtennis`,
-      instagram: ``,
-      twitter: ``,
-      youtube: ``
-    },
+    ...settings,
     siteUrl
   },
   plugins: [

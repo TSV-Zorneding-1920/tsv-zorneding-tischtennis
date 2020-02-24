@@ -1,4 +1,8 @@
 [[headers]]
-for = "/static/*"
-[headers.values]
-Cache-Control = "public, max-age=360000"
+    for = "/*"
+    [headers.values]
+        X-Frame-Options: allow-from https://tischtennis.tsv-zorending.de
+[[headers]]
+    for = "/static/*"
+    [headers.values]
+        Cache-Control = "public, max-age=360000"

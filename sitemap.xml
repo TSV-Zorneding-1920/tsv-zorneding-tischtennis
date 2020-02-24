@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url> <loc>https://tischtennis.tsv-zorending.de/demo/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://tischtennis.tsv-zorending.de/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tischtennis.tsv-zorending.de/jugend/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tischtennis.tsv-zorending.de/kontakt/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://tischtennis.tsv-zorending.de/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tischtennis.tsv-zorending.de/sporthalle/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tischtennis.tsv-zorending.de/trainingszeiten/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tischtennis.tsv-zorending.de/ueber-uns/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -14,9 +14,9 @@
 <url> <loc>https://tischtennis.tsv-zorending.de/blog/2017-03-14-vier-titel-bei-dem-kreisentscheid-der-minimeisterschaften-in-waldtrudering/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tischtennis.tsv-zorending.de/blog/2017-10-04-mini-meisterschaften-17/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tischtennis.tsv-zorending.de/blog/2017-10-20-sieben-titel-fuer-uns-bei-den-kreismeisterschaften/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://tischtennis.tsv-zorending.de/blog/2018-02-07-dritter-platz-fuer-yann-brodkorb-in-wolfratshausen/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tischtennis.tsv-zorending.de/blog/2018-03-02-zornedings-maedchentrio-wieder-bezirkspokalsieger/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tischtennis.tsv-zorending.de/blog/2018-05-01-neue-abteilungsleitung/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://tischtennis.tsv-zorending.de/blog/2018-02-07-dritter-platz-fuer-yann-brodkorb-in-wolfratshausen/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tischtennis.tsv-zorending.de/blog/2018-08-05-ausblick-auf-die-saison-18-19/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tischtennis.tsv-zorending.de/blog/2018-10-27-zornedingerinnen-nehmen-zwei-punkte-aus-fuerth-mit/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tischtennis.tsv-zorending.de/blog/2018-11-14-mini-meisterschaften-18/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>

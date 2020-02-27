@@ -3,43 +3,34 @@ templateKey: static-page
 title: Kontakt
 showTitle: true
 sections:
-  - type: image_text_small
-    info:
-      - image_small: /img/CFritsch.jpg
-        body: >-
-            Abteilungsleiter
+  - info:
+      - body: |-
+          Abteilungsleiter
 
-
-            0152/33544763
-
+          0152/33544763
+        image_small: /img/CFritsch.jpg
         title: Christian Fritsch
-      - image_small: /img/Damen1_19_20.jpg
-        body: >-
-            Stv. Abteilungsleiter
+      - body: Stv. Abteilungsleiter
+        image_small: /img/default_person.png
         title: Andreas Hackner
-      - image_small: /img/Damen1_19_20.jpg
-        body: >-
-            Stv. Abteilungsleiter
+      - body: Stv. Abteilungsleiter
+        image_small: /img/default_person.png
         title: Thomas Thalmair
-      - image_small: /img/Damen1_19_20.jpg
-        body: >-
-            Jugendleitung
+      - body: |-
+          Jugendleitung
 
-
-            0152/27670241
+          0152/27670241
+        image_small: /img/default_person.png
         title: Hannelore Endres-Daßler
-      - image_small: /img/Damen1_19_20.jpg
-        body: >-
-            Schriftführerin
+      - body: Schriftführerin
+        image_small: /img/default_person.png
         title: Sandra Pfürmann
-      - image_small: /img/Damen1_19_20.jpg
-        body: >-
-            Kassenwart
+      - body: |-
+          Kassenwart
 
-
-            08106/29419
+          08106/29419
+        image_small: /img/default_person.png
         title: Wolfgang Bues
-  - type: contact
-
+    type: image_text_small
 ---
 

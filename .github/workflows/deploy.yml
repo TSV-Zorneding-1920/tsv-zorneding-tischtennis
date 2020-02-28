@@ -1,9 +1,6 @@
 name: Node.js CI
 
-on:
-  push:	
-    branches:	
-      - master
+on: push
 
 jobs:
   build:
@@ -32,6 +29,18 @@ jobs:
         key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
         restore-keys: |
           ${{ runner.os }}-yarn-
+  
+    - name: Cache node modules
+      uses: actions/cache@v1
+      env:
+        cache-name: cache-node-modules
+      with:
+        path: ~/.npm # npm cache files are stored in `~/.npm` on Linux/macOS
+        key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('**/yarn.lock') }}
+        restore-keys: |
+          ${{ runner.os }}-build-${{ env.cache-name }}-
+          ${{ runner.os }}-build-
+          ${{ runner.os }}-
 
     - uses: actions/setup-node@v1
       with:
@@ -40,10 +49,3 @@ jobs:
     - run: yarn install
     - run: yarn build
 
-    - name: Deploy
-      uses: s0/git-publish-subdir-action@master
-      env:
-        REPO: self
-        BRANCH: build
-        FOLDER: public
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

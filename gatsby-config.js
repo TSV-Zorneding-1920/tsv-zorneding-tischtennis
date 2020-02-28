@@ -4,7 +4,7 @@ require("dotenv").config({
 });
 const {
   NODE_ENV,
-  URL: NETLIFY_SITE_URL = "https://tischtennis.tsv-zorending.de",
+  URL: NETLIFY_SITE_URL = "https://tischtennis.tsv-zorneding.de",
   DEPLOY_PRIME_URL: NETLIFY_DEPLOY_URL = NETLIFY_SITE_URL,
   CONTEXT: NETLIFY_ENV = NODE_ENV
 } = process.env;

@@ -1,4 +1,4 @@
-name: Node.js CI
+name: Build
 
 on: push
 
@@ -39,6 +39,18 @@ jobs:
         key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('**/yarn.lock') }}
         restore-keys: |
           ${{ runner.os }}-build-${{ env.cache-name }}-
+          ${{ runner.os }}-build-
+          ${{ runner.os }}-
+
+    - name: Cache gatsby
+      uses: actions/cache@v1
+      env:
+        cache-name: cache-gatsby
+      with:
+        path: .cache
+        key: ${{ runner.os }}-build-${{ env.cache-name }}
+        restore-keys: |
+          ${{ runner.os }}-build-${{ env.cache-name }}
           ${{ runner.os }}-build-
           ${{ runner.os }}-
 

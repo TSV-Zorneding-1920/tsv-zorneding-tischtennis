@@ -54,26 +54,6 @@ jobs:
         restore-keys: |
           ${{ runner.os }}-${{ env.cache-name }}-
 
-    - name: Cache gatsby .cache
-      uses: actions/cache@v1
-      env:
-        cache-name: cache-gatsby-cache
-      with:
-        path: .cache
-        key: ${{ runner.os }}-${{ env.cache-name }}-${{ github.run_id }}
-        restore-keys: |
-          ${{ runner.os }}-${{ env.cache-name }}-
-
-    - name: Cache gatsby public
-      uses: actions/cache@v1
-      env:
-        cache-name: cache-gatsby-public
-      with:
-        path: public
-        key: ${{ runner.os }}-${{ env.cache-name }}-${{ github.run_id }}
-        restore-keys: |
-          ${{ runner.os }}-${{ env.cache-name }}-
-
     - uses: actions/setup-node@v1
       with:
         node-version: '12.x'

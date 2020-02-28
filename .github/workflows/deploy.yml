@@ -57,9 +57,9 @@ jobs:
         cache-name: cache-gatsby-cache
       with:
         path: .cache
-        key: ${{ runner.os }}-${{ env.cache-name }}
+        key: ${{ runner.os }}-${{ env.cache-name }}-${{ env.GITHUB_RUN_ID }}
         restore-keys: |
-          ${{ runner.os }}-${{ env.cache-name }}
+          ${{ runner.os }}-${{ env.cache-name }}-
 
     - name: Cache gatsby public
       uses: actions/cache@v1
@@ -67,9 +67,9 @@ jobs:
         cache-name: cache-gatsby-public
       with:
         path: public
-        key: ${{ runner.os }}-${{ env.cache-name }}
+        key: ${{ runner.os }}-${{ env.cache-name }}-${{ env.GITHUB_RUN_ID }}
         restore-keys: |
-          ${{ runner.os }}-${{ env.cache-name }}
+          ${{ runner.os }}-${{ env.cache-name }}-
 
     - uses: actions/setup-node@v1
       with:

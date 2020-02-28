@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
-title: 'Jonas Berendt gewinnt Qualifikationsturnier in Ebersberg'
+title: Jonas Berendt gewinnt Qualiturnier in Ebersberg
 date: 2020-01-19T15:04:10.000Z
-featured: false
 sticky: false
+featured: false
 featuredimage: /img/jonas_ebersberg.jpg
 tags:
   - Jugend

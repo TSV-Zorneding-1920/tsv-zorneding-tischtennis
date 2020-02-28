@@ -31,22 +31,42 @@ jobs:
         restore-keys: |
           ${{ runner.os }}-yarn-
   
-    - name: Cache node modules
+    - name: Cache npm
       uses: actions/cache@v1
       env:
-        cache-name: cache-node-modules
+        cache-name: cache-npm
       with:
         path: ~/.npm # npm cache files are stored in `~/.npm` on Linux/macOS
         key: ${{ runner.os }}-${{ env.cache-name }}-${{ hashFiles('**/yarn.lock') }}
         restore-keys: |
           ${{ runner.os }}-${{ env.cache-name }}-
 
-    - name: Cache gatsby
+    - name: Cache node modules
       uses: actions/cache@v1
       env:
-        cache-name: cache-gatsby
+        cache-name: cache-node_modules
+      with:
+        path: node_modules
+        key: ${{ runner.os }}-${{ env.cache-name }}-${{ hashFiles('**/yarn.lock') }}
+        restore-keys: |
+          ${{ runner.os }}-${{ env.cache-name }}-
+
+    - name: Cache gatsby .cache
+      uses: actions/cache@v1
+      env:
+        cache-name: cache-gatsby-cache
       with:
         path: .cache
+        key: ${{ runner.os }}-${{ env.cache-name }}
+        restore-keys: |
+          ${{ runner.os }}-${{ env.cache-name }}
+
+    - name: Cache gatsby public
+      uses: actions/cache@v1
+      env:
+        cache-name: cache-gatsby-public
+      with:
+        path: public
         key: ${{ runner.os }}-${{ env.cache-name }}
         restore-keys: |
           ${{ runner.os }}-${{ env.cache-name }}

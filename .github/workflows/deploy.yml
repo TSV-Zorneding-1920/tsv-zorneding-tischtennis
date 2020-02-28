@@ -87,4 +87,4 @@ jobs:
         REPO: self
         BRANCH: build
         FOLDER: public
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://tischtennis.tsv-zorending.de/sitemap.xml
-Host: https://tischtennis.tsv-zorending.de
+Sitemap: https://tischtennis.tsv-zorneding.de/sitemap.xml
+Host: https://tischtennis.tsv-zorneding.de

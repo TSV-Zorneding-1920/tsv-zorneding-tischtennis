@@ -25,8 +25,7 @@ module.exports = {
       resolve: `gatsby-theme-tsv-zorneding`,
       options: {
         NETLIFY_ENV,
-        title,
-        NETLIFY_SITE_URL
+        title
       }
     }
   ]

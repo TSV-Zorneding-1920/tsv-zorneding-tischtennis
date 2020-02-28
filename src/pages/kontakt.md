@@ -3,6 +3,10 @@ templateKey: static-page
 title: Kontakt
 showTitle: true
 sections:
+  - body: >-
+      Die Abteilungsleitung ist per Mail zu erreichen unter:
+      [tischtennis@tsv-zorneding.de](mailto:tischtennis@tsv-zorneding.de)
+    type: body
   - info:
       - body: |-
           Abteilungsleiter

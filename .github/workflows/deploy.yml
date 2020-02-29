@@ -60,6 +60,9 @@ jobs:
 
     - run: yarn install
     - run: yarn build
+      env:
+        GATSBY_SITE_URL: ${{ secrets.GATSBY_SITE_URL }}
+        GATSBY_GIT_REPO: ${{ github.repository }}
 
     - name: Deploy
       uses: s0/git-publish-subdir-action@master

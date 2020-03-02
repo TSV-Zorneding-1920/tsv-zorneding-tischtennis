@@ -7,6 +7,7 @@ sticky: false
 featuredimage: /img/DSC07465.jpg
 tags:
   - Jugend
+author: BTTV
 ---
 Sechs Vereine werden vom DTTB ausgezeichnet / Ehrung erfolgt bei den German Open 2020 / Sonderpreise Inklusion und Mädchen-Tischtennis
 

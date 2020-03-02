@@ -8,6 +8,7 @@ featuredimage: /img/DSC01573.jpg
 tags:
   - Jugend
   - Erwachsene
+author: Christian Fritsch
 ---
 Am letzten Sonntag stand wieder unser alljährliches Nikolausturnier auf dem Programm.
 

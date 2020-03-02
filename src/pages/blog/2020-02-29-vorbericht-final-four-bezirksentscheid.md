@@ -7,6 +7,7 @@ featured: false
 featuredimage: /img/default.jpg
 tags:
   - Jugend
+author: Hannelore Endres-Daßler
 ---
 Gleich 2 Jugendveranstaltungen finden am Sonntag bei uns in Zorneding in der Dreifachhalle statt: der Bezirksentscheid der minis mit 5 Zornedinger Nachwuchsspielern. Alle Fünf haben gute Chancen weit vorne zu landen! 
 

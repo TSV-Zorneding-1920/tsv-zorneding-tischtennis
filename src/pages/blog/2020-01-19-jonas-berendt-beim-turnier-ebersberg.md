@@ -7,6 +7,7 @@ featured: false
 featuredimage: /img/jonas_ebersberg.jpg
 tags:
   - Jugend
+author: Hannelore Endres-Daßler
 ---
 Viel Ausdauer benötigten die 76 jungen Tischtennisspieler beim Qualifikationsturnier zum 1. Bezirksranglistenturnier Oberbayern-Mitte in der Ebersberger Turnhalle in der Baldestrasse. Insgesamt wurden im Laufe des Tages 360 Einzelspiele absolviert, bevor die Qualifikanten für das Bezirksturnier feststanden. 
 

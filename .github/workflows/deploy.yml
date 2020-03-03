@@ -1,6 +1,9 @@
 name: Build
 
-on: push
+on:
+  push:
+    branches:
+      - master
 
 jobs:
   build:
@@ -60,6 +63,11 @@ jobs:
       env:
         GATSBY_SITE_URL: ${{ secrets.GATSBY_SITE_URL }}
         GATSBY_GIT_REPO: ${{ github.repository }}
-        GATSBY_CPU_COUNT: 2
 
-
+    - name: Deploy
+      uses: s0/git-publish-subdir-action@master
+      env:
+        REPO: self
+        BRANCH: build
+        FOLDER: public
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

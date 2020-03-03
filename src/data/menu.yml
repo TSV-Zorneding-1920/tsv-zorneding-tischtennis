@@ -9,3 +9,8 @@ menu_entry:
     title: Trainingszeiten
   - page: /sporthalle
     title: Sporthalle
+  - title: Für Mitglieder
+    menu_entry:
+    - page: /mitglieder/altpapiersammlung
+      title: Informationen zur Altpapiersammlung
+ 

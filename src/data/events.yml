@@ -1,18 +1,12 @@
-- description: in der Dreifachssporthalle
-  label: Bezirksmeisterschaften Schüler C
-  date: 2019-10-13T15:04:10.000Z
-- description: in der Dreifachssporthalle
-  label: Final Four Jugendpokal Bezirk
-  date: 2020-03-01T15:04:10.000Z
-- description: in der Dreifachssporthalle
-  label: Verbandsbereich-Mannschaftsmeisterschaften U13 und U15
-  date: 2020-01-26T15:04:10.000Z
-- description: in der Dreifachssporthalle
+- description: in Putzbrunn
   label: Final Four Verbandsbereich-Pokal Mädchen und Jungen
   date: 2020-04-26T15:04:10.000Z
-- description: in der Dreifachssporthalle
-  label: Bezirksentscheid mini-Meisterschaften
-  date: 2020-03-01T15:04:10.000Z
-- description: mit unserer 1. Damen in Peiting
+- description: mit der 1. Damen in Peiting
   label: Final Four Verbandsbereich-Pokal Herren/Damen
   date: 2020-03-15T15:04:10.000Z
+- description: in der Dreifachsporthalle
+  label: Festabend 100 Jahre TSV
+  date: 2020-04-24T15:04:10.000Z
+- description: in der Dreifachsporthalle
+  label: Festwochenende 100 Jahre TSV
+  date: 2020-06-19T15:04:10.000Z

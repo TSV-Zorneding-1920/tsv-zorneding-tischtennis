@@ -1,5 +1,6 @@
 {
   "name": "@tsv-zorneding-1920/tsv-zorneding-tischtennis",
+  "license": "GPL-3.0-or-later",
   "version": "0.0.1",
   "author": "Christian Fritsch",
   "scripts": {
@@ -16,10 +17,7 @@
   "dependencies": {
     "gatsby": "^2.19.7",
     "gatsby-theme-tsv-zorneding-dependencies": "file:./plugins/gatsby-theme-tsv-zorneding/package",
-    "node-sass": "^4.12.0",
-    "parcel-bundler": "^1.12.3",
     "react": "^16.12.0",
-    "react-dom": "^16.9.0",
-    "uuid": "^3.2.1"
+    "react-dom": "^16.9.0"
   }
 }

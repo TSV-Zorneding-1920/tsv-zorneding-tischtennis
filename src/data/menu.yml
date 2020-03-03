@@ -1,6 +1,8 @@
 menu_entry:
   - page: /ueber-uns
     title: Über uns
+  - page: /geschichte
+    title: Geschichte
   - page: '/jugend'
     title: Jugend
   - page: /trainingszeiten

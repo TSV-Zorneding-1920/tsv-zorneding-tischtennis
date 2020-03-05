@@ -5,6 +5,8 @@ showTitle: true
 sections:
   - image: /img/halle.jpg
     type: image
+    image_large: /img/halle.jpg
+    caption: Volles Haus beim ersten Training in der neuen Halle
   - body: >-
       Seit Anfang 2015 findet der Spiel- und Trainingsbetrieb in der neuen
       Dreifachhalle "Am Sportpark 7" statt.
@@ -18,4 +20,3 @@ sections:
       Ausrichtung größere Turniere kein Problem.
     type: body
 ---
-

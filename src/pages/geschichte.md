@@ -45,7 +45,7 @@ sections:
       bayerischer Eckhardt-Pokal-Sieger auf Kreisebene – einer der ersten großen
       Erfolge der Tischtennisabteilung.
   - type: image
-    image: /img/pokalsieger_seel.jpg
+    image_large: /img/pokalsieger_seel.jpg
   - type: body
     body: >-
       Damals wie heute legt der Verein besonderen Wert auf die Jugendarbeit.
@@ -60,7 +60,7 @@ sections:
       Bachl) schließlich bayerischer Mannschaftsmeister bei den Mädchen B und
       2004/2005 bayerischer Vizemeister bei den Mädchen.
   - type: image
-    image: /img/maedchen_2001.jpg
+    image_large: /img/maedchen_2001.jpg
   - type: body
     body: >-
       Dass sich gute Jugendarbeit auch langfristig auszahlt, sieht man an der
@@ -72,7 +72,7 @@ sections:
       Deutscher Vizepokalsieger auf Bezirksebene – der bislang größte Erfolg der
       Vereinsgeschichte.
   - type: image
-    image: /img/dpmv_2014_25.jpg
+    image_large: /img/dpmv_2014_25.jpg
   - type: body
     body: >-
       Nach einer spektakulären Aufstiegsserie und weiterer Verstärkung durch
@@ -80,7 +80,7 @@ sections:
       der Oberliga, so hoch wie zuvor noch keine andere Tischtennismannschaft
       des TSV Zorneding.
   - type: image
-    image: /img/IMG_0988.jpg
+    image_large: /img/IMG_0988.jpg
   - type: body
     body: >-
       Neben dem sportlichen Erfolg stehen damals wie heute aber vor allem der

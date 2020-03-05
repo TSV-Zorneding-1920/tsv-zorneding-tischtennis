@@ -18,13 +18,21 @@ sections:
     type: body
   - images:
       - image: /img/Damen1_19_20.jpg
+        caption: 1. Damen
       - image: /img/Damen2_18_19.jpg
+        caption: 2. Damen
       - image: /img/Herren1_18_19.jpg
+        caption: 1. Herren
       - image: /img/Herren2_18_19.jpg
+        caption: 2. Herren
       - image: /img/Herren3_18_19.jpg
+        caption: 3. Herren
       - image: /img/Herren4_18_19.jpg
+        caption: 4. Herren
       - image: /img/Herren5_18_19.jpg
+        caption: 5. Herren
       - image: /img/Herren6_18_19.jpg
+        caption: 6. Herren
     type: carousel
   - body: >-
       Aktuell nehmen zwei Damen-, fünf Herren- und drei Jugendmannschaften am Punktspielbetrieb teil. 

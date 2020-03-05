@@ -21,6 +21,9 @@ sections:
     type: body
   - images:
       - image: /img/maedchen-pokal-2018.jpg
+        caption: >-
+          Nina Krüger, Kaja Herb und Sonja Krüger beim Bezirkspokal für
+          Kreisligamannschaften
       - image: /img/DSC07376.jpg
       - image: /img/DSC07465.jpg
       - image: /img/DSC06327.jpg
@@ -51,5 +54,5 @@ sections:
     tags:
       - Jugend
     type: teaser_list
+    title: Aktuelles aus der Jugend
 ---
-

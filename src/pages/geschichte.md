@@ -1,6 +1,5 @@
 ---
 templateKey: static-page
-folder: /gaga/ddaa/
 title: Geschichte
 slug: ''
 showTitle: true

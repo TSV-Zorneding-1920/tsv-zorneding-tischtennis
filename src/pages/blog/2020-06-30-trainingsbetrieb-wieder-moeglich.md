@@ -1,12 +1,13 @@
 ---
 templateKey: blog-post
+sticky: false
+author: Christian Fritsch
 title: Trainingsbetrieb wieder möglich
 date: 2020-06-30T15:04:10.000Z
-sticky: false
 featured: false
-featuredimage: /img/corona.jpg
-tags:
-author: Christian Fritsch
+canonical: ""
+featuredimage: /img/20200617_202350.jpg
+tags: null
 ---
 Erfreulicherweise dürfen wir wieder in die Turnhalle und Tischtennis spielen. Es gibt zwar verschiedene Beschränkungen, aber alle sind sehr froh, dass sie wieder dem kleinen Plastikball hinterher jagen dürfen. Nach den Vorgaben von der bayerischen Regierung, dem bayerischen Tischtennisverband und der Gemeinde Zorneding  haben wir ein Hygienekonzept erstellt und sind  unter strengen Auflagen wieder in der Halle.
 

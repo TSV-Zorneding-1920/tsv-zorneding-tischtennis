@@ -3,38 +3,45 @@ templateKey: static-page
 title: Kontakt
 showTitle: true
 sections:
-  - body: >-
-      Die Abteilungsleitung ist per Mail zu erreichen unter:
-      [tischtennis@tsv-zorneding.de](mailto:tischtennis@tsv-zorneding.de)
+  - body: "Die Abteilungsleitung ist per Mail zu erreichen unter:
+      [tischtennis@tsv-zorneding.de](mailto:tischtennis@tsv-zorneding.de)"
     type: body
   - info:
-      - body: |-
-          Abteilungsleiter
-
-          0152/33544763
-        image_small: /img/CFritsch.jpg
-        title: Christian Fritsch
-      - body: Stv. Abteilungsleiter
+      - body: Abteilungsleiter & Hygienebeauftragter
         image_small: /img/default_person.png
-        title: Andreas Hackner
-      - body: Stv. Abteilungsleiter
+        title: André Duwel
+      - body: Stv. Abteilungsleiter & Veranstaltungsorganisator
         image_small: /img/default_person.png
         title: Thomas Thalmair
-      - body: |-
-          Jugendleitung
-
-          0152/27670241
+      - body: Kassenwartin
         image_small: /img/default_person.png
-        title: Hannelore Endres-Daßler
+        title: Christa Wifling
       - body: Schriftführerin
         image_small: /img/default_person.png
         title: Sandra Pfürmann
       - body: |-
-          Kassenwart
+          Jugendleiterin
 
-          08106/29419
+          0152/27670241
         image_small: /img/default_person.png
-        title: Wolfgang Bues
+        title: Hannelore Endres-Daßler
+      - image_small: /img/default_person.png
+        title: Georg Schmeißer
+        body: Stv. Jugendleiter
+      - image_small: /img/default_person.png
+        title: Rudolf Zehtner
+        body: Sportwart
+      - image_small: /img/default_person.png
+        title: Ulrich Boese
+        body: Gerätewart
+      - body: |-
+          Onlinebeauftragter & Veranstaltungsorganisator
+
+          0152/33544763
+        image_small: /img/CFritsch.jpg
+        title: Christian Fritsch
+      - image_small: /img/default_person.png
+        title: Penelope Bues
+        body: Geschenkebeauftragte & Altpapierbeauftragte
     type: image_text_small
 ---
-

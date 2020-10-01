@@ -8,6 +8,7 @@ sections:
     type: banner_list
   - count: 6
     offset: 1
+    title: Weitere Neuigkeiten aus der Abteilung
     type: teaser_list
 ---
 

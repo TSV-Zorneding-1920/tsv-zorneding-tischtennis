@@ -14,7 +14,7 @@ sections:
         image_small: /img/default_person.png
         title: Thomas Thalmair
       - body: Kassenwartin
-        image_small: /img/default_person.png
+        image_small: /img/whatsapp-image-2020-10-04-at-20.40.04.jpeg
         title: Christa Wifling
       - body: Schriftführerin
         image_small: /img/default_person.png

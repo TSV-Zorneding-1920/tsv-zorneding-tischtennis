@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://tischtennis.tsv-zorneding.de/mitglieder/altpapiersammlung</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tischtennis.tsv-zorneding.de/geschichte/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tischtennis.tsv-zorneding.de/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tischtennis.tsv-zorneding.de/jugend/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -34,7 +35,7 @@
 <url> <loc>https://tischtennis.tsv-zorneding.de/blog/2020-02-29-vorbericht-final-four-bezirksentscheid/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tischtennis.tsv-zorneding.de/blog/2020-03-13-coronavirus-sportplaetze-und-hallen-gesperrt/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tischtennis.tsv-zorneding.de/blog/2020-06-30-trainingsbetrieb-wieder-moeglich/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://tischtennis.tsv-zorneding.de/mitglieder/altpapiersammlung</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://tischtennis.tsv-zorneding.de/blog/2020-10-07-ortsentscheid-der-tischtennis-minimeisterschaften-in-zorneding/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tischtennis.tsv-zorneding.de/tag/1-damen/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tischtennis.tsv-zorneding.de/tag/bezirksbereichsturnier/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tischtennis.tsv-zorneding.de/tag/bezirkspokal/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>

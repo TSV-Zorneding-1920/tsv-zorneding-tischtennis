@@ -5,10 +5,6 @@ author: Hannelore Endres-Daßler
 date: 2020-10-07T08:51:52.796Z
 sticky: false
 featured: false
-featuredimage: /img/mini-meisterschaften-2.jpg
+featuredimage: /img/mini-meisterschaften-2020.jpg
 ---
-Am Mi 7.10.20 ab 17 Uhr finden in der Zornedinger Dreifachhalle am Sportpark wieder die beliebten Minimeisterschaften statt.ausgespielt. Mitmachen können alle Kinder bis zwölf Jahre (ab Jahrgang 2008).
-
-Bereits ab 16:30 können die Kinder das Tischtennis Sportabzeichen erwerben.
-
-Aufgrund der Einschränkungen durch Corona ist eine vorherige Anmeldung per mail ([hannied.tt@gmail.com](mailto:hannied.tt@gmail.com)) nötig (inklusive vollständigen Namen des Sorgeberechtigten u. Adresse).
+Erster kleiner Höhepunkt für unsere jüngsten Spieler waren die mini-Meisterschaften am 7.10.20 bei uns in der Halle. Es gab sehr spannende Spiele und tolle Ballwechsel zu sehen, am Ende freuten sich Niklas Jobst, Marie Lüpken und Julia Karlstetter über die Siegerpokale. Neben diesem Wettbewerb absolvierten mehrere Kinder der Anfängergruppe das Tischtennis Sportabzeichen und zeigten dabei viel Geschick mit dem kleinen weißen Ball.

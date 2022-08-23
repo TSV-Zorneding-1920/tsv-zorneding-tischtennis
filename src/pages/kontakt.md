@@ -1,6 +1,7 @@
 ---
 templateKey: static-page
 title: Kontakt
+slug: kontakt
 showTitle: true
 sections:
   - body: "Die Abteilungsleitung ist per Mail zu erreichen unter:
@@ -16,9 +17,6 @@ sections:
       - body: Kassenwartin
         image_small: /img/whatsapp-image-2020-10-04-at-20.40.04.jpeg
         title: Christa Wifling
-      - body: Schriftführerin
-        image_small: /img/default_person.png
-        title: Sandra Pfürmann
       - body: |-
           Jugendleiterin
 
@@ -28,9 +26,6 @@ sections:
       - image_small: /img/default_person.png
         title: Georg Schmeißer
         body: Stv. Jugendleiter
-      - image_small: /img/default_person.png
-        title: Rudolf Zehtner
-        body: Sportwart
       - image_small: /img/default_person.png
         title: Ulrich Boese
         body: Gerätewart

@@ -14,25 +14,23 @@ sections:
       ### Montag
 
 
-      * 17:00 - 18:30 Uhr: Anfängertraining ab 6 Jahren (Nov - Feb: 16:30 - 18
-      Uhr)
+      * 17:00 - 18:30 Uhr: Anfängertraining ab 7 Jahren 
 
-      * 18:00 - 20:00 Uhr: Mannschaftstraining u.a. mit der ehemaligen
-      Bundesligaspielerin Sylvia Pranjkovic
+      * 18:15 - 20:00 Uhr: Mannschaftstraining
 
 
       ### Mittwoch
 
 
-      * 17:00 - 18:15 Uhr: Anfängertraining ab 6 Jahren
+      * 16:50 - 18:00 Uhr: Mädchengruppe ab 7 Jahren
 
-      * 18:15 - 19:30 Uhr: Anfängertraining ab 10 Jahre und Mannschaftstraining
+      * 18:00 - 19:45 Uhr: Mannschaftstraining
 
 
       ### Freitag
 
 
-      * 17:00 - 18:30 Uhr: Anfängertraining ab 8 Jahre und Mannschaftstraining
+      * 17:00 - 19:00 Uhr: Gemischtes Training
 
       * ab 18:00 Uhr: Punktspiele 
 

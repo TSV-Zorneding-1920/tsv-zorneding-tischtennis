@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Fiete Försters holt elften Platz beim Top14 Turnier
+title: Fiete Förster holt elften Platz beim Top14 Turnier
 author: Hanni Endres-Daßler
 date: 2023-11-07T15:46:24.157Z
 sticky: false

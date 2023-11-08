@@ -42,27 +42,23 @@ sections:
       Zu den Spielplänen und Tabellen der einzelnen Mannschaften:
 
 
-      * [1. Damen](https://www.mytischtennis.de/clicktt/ByTTV/20-21/ligen/Damen-Verbandsoberliga-Sued-Bayerischer-TTV-/gruppe/387672/tabelle/gesamt/)
+      * [1. Damen](https://www.mytischtennis.de/clicktt/ByTTV/23-24/ligen/Oberliga-Damen-Bayern/gruppe/444833/tabelle/gesamt/)
 
-      * [2. Damen](https://www.mytischtennis.de/clicktt/ByTTV/20-21/ligen/Damen-Bezirksklasse-A-Gruppe-4-Ebersberg-Muenchen-Bayerischer-TTV-Oberbayern-Mitte-/gruppe/386321/tabelle/gesamt/)
+      * [1. Herren](https://www.mytischtennis.de/clicktt/ByTTV/23-24/ligen/Herren-Bezirksklasse-A-Gruppe-4-Ebersberg-Muenchen-Bayerischer-TTV-Oberbayern-Mitte-/gruppe/446788/tabelle/gesamt/)
 
-      * [1. Herren](https://www.mytischtennis.de/clicktt/ByTTV/20-21/ligen/Herren-Bezirksliga-Gruppe-2-Ost-Bayerischer-TTV-Oberbayern-Mitte-/gruppe/386314/tabelle/gesamt/)
+      * [2. Herren](https://www.mytischtennis.de/clicktt/ByTTV/23-24/ligen/Herren-Bezirksklasse-A-Gruppe-3-Muenchen-Ost-Bayerischer-TTV-Oberbayern-Mitte-/gruppe/446607/tabelle/gesamt/)
 
-      * [2. Herren](https://www.mytischtennis.de/clicktt/ByTTV/20-21/ligen/Herren-Bezirksklasse-A-Gruppe-4-Ebersberg-Muenchen-Bayerischer-TTV-Oberbayern-Mitte-/gruppe/386315/tabelle/gesamt/)
+      * [3. Herren](https://www.mytischtennis.de/clicktt/ByTTV/23-24/ligen/Herren-Bezirksklasse-C-Gruppe-7-Ebersberg-Muenchen-Bayerischer-TTV-Oberbayern-Mitte-/gruppe/447224/tabelle/gesamt/)
 
-      * [3. Herren](https://www.mytischtennis.de/clicktt/ByTTV/20-21/ligen/Herren-Bezirksklasse-B-Gruppe-8-Ebersberg-Muenchen-Bayerischer-TTV-Oberbayern-Mitte-/gruppe/386889/tabelle/gesamt/)
-
-      * [4. Herren](https://www.mytischtennis.de/clicktt/ByTTV/20-21/ligen/Herren-Bezirksklasse-C-Gruppe-7-Ebersberg-Muenchen-Bayerischer-TTV-Oberbayern-Mitte-/gruppe/384292/tabelle/gesamt/)
+      * [4. Herren](https://www.mytischtennis.de/clicktt/ByTTV/23-24/ligen/Herren-Bezirksklasse-D-Gruppe-7-Ebersberg-Muenchen-Bayerischer-TTV-Oberbayern-Mitte-/gruppe/446835/tabelle/gesamt/)
 
       * [5. Herren](https://www.mytischtennis.de/clicktt/ByTTV/20-21/ligen/Herren-Bezirksklasse-D-Gruppe-8-Ebersberg-Muenchen-Bayerischer-TTV-Oberbayern-Mitte-/gruppe/384657/tabelle/gesamt/)
 
-      * [1. Jugend](https://www.mytischtennis.de/clicktt/ByTTV/20-21/ligen/Jungen-18-Bezirksliga-Gruppe-2-Ost-Bayerischer-TTV-Oberbayern-Mitte-/gruppe/384702/tabelle/gesamt/)
+      * [1. Jugend](https://www.mytischtennis.de/clicktt/ByTTV/JVR-23-24/jugend-punktspiele-vr/Jugend-19-Bezirksklasse-A-Gruppe-4-Ebersberg-Muenchen-Bayerischer-TTV-Oberbayern-Mitte-/gruppe/447483/tabelle/gesamt/)
 
-      * [2. Jugend](https://www.mytischtennis.de/clicktt/ByTTV/20-21/ligen/Jungen-18-Bezirksklasse-C-Gruppe-7-Ebersberg-Muenchen-Bayerischer-TTV-Oberbayern-Mitte-/gruppe/383658/tabelle/gesamt/)
+      * [2. Jugend](https://www.mytischtennis.de/clicktt/ByTTV/JVR-23-24/jugend-punktspiele-vr/Jugend-19-Bezirksklasse-B-Gruppe-7-Ebersberg-Muenchen-Bayerischer-TTV-Oberbayern-Mitte-/gruppe/446984/tabelle/gesamt/)
 
-      * [3. Jugend](https://www.mytischtennis.de/clicktt/ByTTV/20-21/ligen/Jungen-18-Bezirksklasse-C-Gruppe-10-Ost-Bambini-Bayerischer-TTV-Oberbayern-Mitte-/gruppe/387663/tabelle/gesamt/)
-
-      * [1. Mädchen](https://www.mytischtennis.de/clicktt/ByTTV/20-21/ligen/Maedchen-18-Bezirksoberliga-Bayerischer-TTV-Oberbayern-Mitte-/gruppe/384699/tabelle/gesamt/)
+      * [3. Jugend](https://www.mytischtennis.de/clicktt/ByTTV/JVR-23-24/jugend-punktspiele-vr/Jugend-19-Bezirksklasse-C-Gruppe-10-Bambini-Bayerischer-TTV-Oberbayern-Mitte-/gruppe/447146/tabelle/gesamt/)
     type: body
     title: Mannschaften
 ---
